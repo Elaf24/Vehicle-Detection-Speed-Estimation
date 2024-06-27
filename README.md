@@ -18,36 +18,37 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-* [![JavaScript][JavaScript]][JavaScript-url]
-* [![HTML][HTML]][HTML-url]
-* [![CSS][CSS]][CSS-url]
-* [![Regex][Regex]][Regex-url]
-* [![MySQL][MySQL]][MySQL-url]
-* [![PHP][PHP]][PHP-url]
-
+<!--[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+<!--   <a href="https://github.com/othneildrew/Best-README-Template"> -->
+    <img src="https://github.com/Elaf24/AI-Project/assets/110555263/a71d07bf-34f4-496b-9cae-7879169dbd15" height="400" width="400">
+
+
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">VELOCITY</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+<!--     An awesome README template to jumpstart your projects! -->
+<!--     <br /> -->
+<!--     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <br /> -->
+<!--     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a> -->
+<!--     ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a> -->
+<!--     · -->
+<!--     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a> -->
   </p>
 </div>
 
@@ -55,7 +56,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary> <img src="https://github.com/Elaf24/AI-Project/assets/110555263/20ff6046-c470-4875-8923-93b8b44c6e17" height="20" widht="20"> Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -83,19 +84,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+This project utilizes the YOLOv8 model to estimate vehicle speed and detect vehicles. Trained on data from RoboFlow using Google Colab, the application's frontend is built with the Flask framework. It can count vehicles, categorize them , store this information, and estimate the speed of detected vehicles.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
