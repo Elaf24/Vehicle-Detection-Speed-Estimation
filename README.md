@@ -201,18 +201,13 @@ python ultralytics\yolo\v8\segment\app.py
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Front End
+![Screenshot (1460)](https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/66e14b6d-e10f-4851-8f5e-c36bb5c0c8ea)
+![Screenshot (1461)](https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/d49f9553-5373-422e-828a-16a1a2b6e041)
+![Screenshot (1462)](https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/5fc0ab6b-095a-4b57-af3b-3045030abb27)
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
