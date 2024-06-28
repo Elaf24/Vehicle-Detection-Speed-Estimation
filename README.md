@@ -171,35 +171,30 @@ python predict.py model=yolov8x-seg.pt source="test1.mp4"
 
 
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+1.To start the flask app
+  ```sh
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+python ultralytics\yolo\v8\segment\app.py
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+  ```
+2.Open your web browser and go to http://127.0.0.1:5000
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+3.Upload a video that is in mp4 format
+ <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Result
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
