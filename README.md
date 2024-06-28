@@ -184,8 +184,10 @@ python predict.py model=yolov8x-seg.pt source="test1.mp4"
 python ultralytics\yolo\v8\segment\app.py
 
   ```
-2.Open your web browser and go to http://127.0.0.1:5000
-
+2.Open your web browser and go to 
+```sh
+http://127.0.0.1:5000
+  ```
 
 3.Upload a video that is in mp4 format
  <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -201,7 +203,7 @@ python ultralytics\yolo\v8\segment\app.py
 
 
 <!-- CONTRIBUTING -->
-## Front End
+## Front End 
 <img src="https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/66e14b6d-e10f-4851-8f5e-c36bb5c0c8ea" >
 <img src="https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/d49f9553-5373-422e-828a-16a1a2b6e041">
 <img src="https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/7e342620-0978-4eb5-992c-267f03a288cd">
@@ -216,7 +218,7 @@ python ultralytics\yolo\v8\segment\app.py
 
 
 <!-- LICENSE -->
-## License
+<!--## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
