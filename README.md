@@ -56,7 +56,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary> <img src="https://github.com/Elaf24/AI-Project/assets/110555263/20ff6046-c470-4875-8923-93b8b44c6e17" height="20" widht="20"> Table of Contents</summary>
+  <summary> <img src="https://github.com/Elaf24/AI-Project/assets/110555263/20ff6046-c470-4875-8923-93b8b44c6e17" height="40" widht="40"> Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -91,54 +91,85 @@ This project utilizes the YOLOv8 model to estimate vehicle speed and detect vehi
 
 
 
-### Built With
+## Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+ 
+  <img src= "https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/f52806dc-cde1-4823-9fc7-648d977d4b87" height="40" width="40">
+  <img src="https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/9f0fd0a1-e1fa-46d4-aa1c-57cffb4914e7" height="40" width="40">
+  <img src="https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/c89b718f-b510-4b7b-a6d1-53f53f228bdb" height="40" width="40">
+  <img src="https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/72f3c2f8-7742-4c8a-ab01-94b8271e52f3" height="40" width="40">
+  <img src="https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/56e3fd86-c043-4ba3-be09-c17a88561299" height="40" width="40">
+<img src="https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/4626116d-7b02-4473-88d3-63591eeca779" height="40" width="40">
+<img src="https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/2cee0af7-b0e5-449e-8766-f46244cd8373"height="40" width="80">
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+
+
+
+
+
+
+
+
+
+
+* **YOLOv8** for vehicle detection and speed estimation
+* **RoboFlow** for dataset 
+* **Flask** for the web framework
+
+*  **Python** for backend development
+*  **HTML/CSS** for frontend design
+  * **Collab** for model training
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Installation Guide
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+1.Clone the repository:
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
   ```sh
-  npm install npm@latest -g
+https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation.git
   ```
 
-### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+2.Go to the cloned folder
+  ```sh
+cd YOLOv8_Segmentation_DeepSORT_Object_Tracking
+  ```
+2.Go to the cloned folder
+  ```sh
+cd YOLOv8_Segmentation_DeepSORT_Object_Tracking
+  ```
+3.Install the Dependencies
+  ```sh
+pip install -e '.[dev]'
+
+  ```
+4.setting the directory
+  ```sh
+cd ultralytics/yolo/v8/segment
+
+  ```
+5.Downloading the DeepSORT Files From The Google Drive
+  ```sh
+
+https://drive.google.com/drive/folders/1kna8eWGrSfzaR6DtNJ8_GchGgPMv3VC8?usp=sharing
+
+  ```
+
+5.Run the code with mentioned command:
+For yolov8 segmentation + Tracking
+  ```sh
+
+python predict.py model=yolov8x-seg.pt source="test1.mp4"
+
+  ```
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
