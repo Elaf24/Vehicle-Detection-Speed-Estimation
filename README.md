@@ -72,10 +72,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project :bulb:
+<p align="right">(<a id="about" href="#readme-top">back to top</a>)</p>
 This project utilizes the YOLOv8 model to estimate vehicle speed and detect vehicles. Trained on data from RoboFlow using Google Colab, the application's frontend is built with the Flask framework. It can count vehicles, categorize them , store this information, and estimate the speed of detected vehicles.
 
 
-<p align="right">(<a id="about" href="#readme-top">back to top</a>)</p>
+
 
 
 
