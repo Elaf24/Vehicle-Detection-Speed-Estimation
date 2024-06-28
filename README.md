@@ -125,7 +125,7 @@ This project utilizes the YOLOv8 model to estimate vehicle speed and detect vehi
 
 
 <!-- GETTING STARTED -->
-## Installation Guide
+## Installation Guide :gear:
 
 
 1.Clone the repository:
@@ -177,7 +177,7 @@ python predict.py model=yolov8x-seg.pt source="test1.mp4"
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Usage :bell:
 1.To start the flask app
   ```sh
 
@@ -194,7 +194,7 @@ http://127.0.0.1:5000
 
 
 <!-- ROADMAP -->
-## Result
+## Result :film_projector:
 ![final (1)](https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/b1bf6474-1466-4f02-afa2-26aaa9d7d24e)
 
 
@@ -203,7 +203,7 @@ http://127.0.0.1:5000
 
 
 <!-- CONTRIBUTING -->
-## Front End 
+## Front End :camera:
 <img src="https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/66e14b6d-e10f-4851-8f5e-c36bb5c0c8ea" >
 <img src="https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/d49f9553-5373-422e-828a-16a1a2b6e041">
 <img src="https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/7e342620-0978-4eb5-992c-267f03a288cd">
