@@ -59,7 +59,7 @@
   <summary> <img src="https://github.com/Elaf24/AI-Project/assets/110555263/20ff6046-c470-4875-8923-93b8b44c6e17" height="40" widht="40"> Table of Contents</summary>
   <ol>
     <li>
-      <a href="##About The Project">About The Project</a>
+      <a href="about">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -71,7 +71,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a id="about" href="#usage">Usage</a></li>
  
   </ol>
 </details>
