@@ -168,16 +168,19 @@ python predict.py model=yolov8x-seg.pt source="test1.mp4"
 <!-- USAGE EXAMPLES -->
 ## Usage :bell:
  <p align="right">(<a id="usage" href="#readme-top">back to top</a>)</p>
+
 1.To start the flask app
-  ```sh
+  
+```sh
 
 python ultralytics\yolo\v8\segment\app.py
 
-  ```
+ ```
 2.Open your web browser and go to 
+
 ```sh
 http://127.0.0.1:5000
-  ```
+ ```
 
 3.Upload a video that is in mp4 format
 
