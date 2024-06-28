@@ -58,7 +58,7 @@
 <details>
   <summary> <img src="https://github.com/Elaf24/AI-Project/assets/110555263/20ff6046-c470-4875-8923-93b8b44c6e17" height="40" widht="40"> Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#about">About The Project</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#installation-guide">Installation Guide</a></li>
     <li><a href="#usage">Usage</a></li>
@@ -108,7 +108,7 @@ This project utilizes the YOLOv8 model to estimate vehicle speed and detect vehi
 *  **HTML/CSS** for frontend design
   * **Collab** for model training
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a id= "built-with" href="#readme-top">back to top</a>)</p>
 
 
 
